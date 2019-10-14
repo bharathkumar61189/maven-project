@@ -127,7 +127,8 @@ span.psw {
 </head>
 <body>
 
-<h2>Modal Login Form</h2>
+<h1>Good Morinig</h1>
+<h2> <i> WelCome to our page</i></h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 
