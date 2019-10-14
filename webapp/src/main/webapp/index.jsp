@@ -128,7 +128,7 @@ span.psw {
 <body>
 
 <h1>Good Morinig</h1>
-<h2> <i> WelCome to our page</i></h2>
+<h2> <i> Well-Come to our page</i></h2>
 <h2> Have a Nice Day</h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
