@@ -127,7 +127,7 @@ span.psw {
 </head>
 <body>
 
-<h1>Good Morinig</h1>
+<h1>Good Morning</h1>
 <h2> <i> Well-Come to our page</i></h2>
 <h2> Have a Nice Day</h2>
 
